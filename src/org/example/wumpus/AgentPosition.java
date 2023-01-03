@@ -1,3 +1,4 @@
+package org.example.wumpus;
 public class AgentPosition {
 
     public enum Orientation {

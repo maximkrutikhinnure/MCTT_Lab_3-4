@@ -1,3 +1,4 @@
+package org.example.wumpus;
 public class WumpusPercept {
     private boolean stench;
     private boolean breeze;
